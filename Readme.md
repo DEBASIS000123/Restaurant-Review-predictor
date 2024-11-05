@@ -89,10 +89,10 @@ weighted avg 0.80 0.79 0.79 300
 The accuracy of the model indicates that it can effectively predict sentiment in restaurant reviews.
 
 Screenshots
-Here are some screenshots of the project in action:
+Here are some results of the project in action:
 
-1. Review Input and Prediction
+This is a positive Review
 
-2. Results Display
+This is a Negative review
 
 (Replace the above image paths with actual images that you have in your project.)
