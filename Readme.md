@@ -1,15 +1,4 @@
 # Restaurant Review Predictor
-
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Code Explanation](#code-explanation)
-6. [Results](#results)
-7. [License](#license)
-
 ## Project Overview
 
 The **Restaurant Review Predictor** is a machine learning project that classifies restaurant reviews as positive or negative. Using Natural Language Processing (NLP) techniques, this project employs text preprocessing, feature extraction, and a logistic regression model to analyze and predict sentiment from customer reviews. This tool can help restaurant owners understand customer feedback and improve their services.
